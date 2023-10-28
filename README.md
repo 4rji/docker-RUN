@@ -10,6 +10,17 @@ Este script me ayuda a acceder a contenedores docker mas rapido, en especial cua
 ![App Screenshot](dockerun_menu.png)
 
 
+
+# Docker RuN
+
+Este script me ayuda a acceder a contenedores docker mas rapido, en especial cuando no recuerdo los comandos exactos o simplemente estoy de flojo.
+
+
+## Authors
+
+- [@yomero](https://www.github.com/yomero)
+
+
 ## Deployment in zsh
 
 To deploy this project run
@@ -18,8 +29,12 @@ To deploy this project run
 sudo dockerun
 
 
-
 ## Screenshots
 
-![App Screenshot](dockerun_menu.png)
+![App Screenshot]/blob/main/dockerun_menu.png))
+
+
+## Appendix
+
+Any additional information goes here
 
