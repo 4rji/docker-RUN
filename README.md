@@ -40,15 +40,15 @@ sudo dockerun
 
 ## Authors
 
-- [@yomero](https://www.github.com/yomero)
+- [@4rji](https://www.github.com/4rji/)
 
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email contact@arji.dev or join our Slack channel.
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at havi@arji.dev
 
