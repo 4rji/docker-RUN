@@ -20,5 +20,5 @@ sudo dockerun
 
 ## Screenshots
 
-![App Screenshot](/https://github.com/4rji/docker-RUN/blob/main/dockerun_menu.png)
+![App Screenshot](blob/main/dockerun_menu.png)
 
