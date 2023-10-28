@@ -7,9 +7,7 @@ Este script me ayuda a acceder a contenedores docker mas rapido, en especial cua
 ## Authors
 
 - [@yomero](https://www.github.com/yomero)
-
-![dockerun_menu](https://github.com/4rji/docker-RUN/assets/118249932/5a9390d3-721f-432b-97f6-c46906d2d601)
-
+![App Screenshot](dockerun_menu.png)
 
 
 ## Deployment in zsh
