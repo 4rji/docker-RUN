@@ -19,5 +19,5 @@ sudo dockerun
 
 ## Screenshots
 
-![App Screenshot]![App Screenshot](/docker-RUN/dockerun_menu.png))
+![App Screenshot]![App Screenshot](/dockerun_menu.png))
 
